@@ -1,0 +1,11 @@
+{
+    "sender": "SenderEmailAddress",
+    "password": "SenderPassword",
+    "itemType": 1,
+    "to": "rec1@domain.com;rec2@domain.com",
+    "cc": "",
+    "bcc": "",
+    "optional": "",
+    "required": "rec3@domain.com;rec4@domain.com",
+    "count": 1
+}
